@@ -62,10 +62,10 @@ Great isn't it?! You can now remove Babel from your node projects and use all th
 ## More information about `@std/esm`
 The library fully supports:
 
-  - import / export
-  - Dynamic import()
-  - Live bindings
-  - `.mjs` file load
+  - [import](https://ponyfoo.com/articles/es6-modules-in-depth#import) / [export](https://ponyfoo.com/articles/es6-modules-in-depth#export)
+  - [`Dynamic import()`](https://github.com/tc39/proposal-dynamic-import)
+  - [Live bindings](https://ponyfoo.com/articles/es6-modules-in-depth#bindings-not-values)
+  - [`.mjs` file load](https://github.com/nodejs/node-eps/blob/master/002-es-modules.md#32-determining-if-source-is-an-es-module)
 
 ## Many thanks
 
