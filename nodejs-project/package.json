@@ -2,9 +2,9 @@
   "name": "nodejs-project-template",
   "version": "1.0.0",
   "description": "",
-  "author": "FERNANDEZ Quentin",
   "license": "ISC",
   "dependencies": {
-    "mocha": "^3.4.2"
+    "@std/esm": "^0.8.3",
+    "mocha": "3.4.2"
   }
 }
